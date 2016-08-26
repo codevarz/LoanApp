@@ -10,11 +10,6 @@ public class HelloGit {
 
 		System.out.println("Hello Git !!! -Anirudh ");
 
-		
-
-
-		System.out.println("Hello Git !!!"
-				+ "By -Anirudh-Branch");
 
 	}
 
