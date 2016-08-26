@@ -10,7 +10,7 @@ public class HelloGit {
 		System.out.println("Hello Git !!! -Vamsi ");
 		System.out.println("Hello Git !!! -Shyam ");
 		System.out.println("Hello Git !!! -Shyam Mohan ");
-		System.out.println("with out pull");
+		System.out.println("with out pull---------------->");
 
 
 
