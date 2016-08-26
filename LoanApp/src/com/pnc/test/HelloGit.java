@@ -8,7 +8,7 @@ public class HelloGit {
 		//comment added
 
 
-		System.out.println("Hello Git !!! -Anirudh ");
+		System.out.println("Hello Git !!! -Vamsi ");
 
 
 	}
